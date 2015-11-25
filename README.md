@@ -48,7 +48,7 @@ codecademy [AngularJS 강좌](http://www.codecademy.com/en/learn/learn-angularjs
 
 
 #### 예제 2
-. annotation으로 data set에 접근하기
+[. annotation으로 data set에 접근하기](../master/example02.md)
 
 
 #### 예제 3
